@@ -12,5 +12,5 @@
     <li>C, C++, Python</li>
     <li>RPA in UiPath</li>
     <li>Web Programming</li>
-    :-)
+    <li>:-)</li>
 </ul>
