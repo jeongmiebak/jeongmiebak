@@ -1,3 +1,3 @@
-# 박정미 소개
+# Jamie is ..
 
-<img align='left' src='whale.webp' width='200'>
+<img align='right' src='whale.webp' width='200'>
