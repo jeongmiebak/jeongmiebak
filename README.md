@@ -1,6 +1,6 @@
 # Jamie is SW Engineer &
 
-## interest in ...
+## interested in ...
 
 <img align='right' src='whale.webp' width='200'>
 
